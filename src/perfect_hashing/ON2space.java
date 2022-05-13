@@ -1,6 +1,5 @@
 package perfect_hashing;
 
-import java.io.*;
 import java.util.Arrays;
 import java.util.Iterator;
 import java.util.LinkedHashSet;
